@@ -1,0 +1,33 @@
+{
+  "name": "new_york",
+  "title": "New York",
+  "info": "bla bla bla bla bla bal whiskas sachê",
+  "imageDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\image.jpg",
+  "videoDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\video.jpg",
+  "hotels": [
+    {
+      "name": "hotel_mabu",
+      "title": "Hotel Mabu",
+      "imageDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\Hotels\hotel_mabu\image.jpg",
+      "price": 10
+    },
+    {
+      "name": "hotel_trivago",
+      "title": "Hotel Trivago",
+      "imageDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\Hotels\hotel_trivago\image.jpg",
+      "price": 10
+    },
+    {
+      "name": "hotel_segredos",
+      "title": "Hotel Segredos",
+      "imageDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\Hotels\hotel_segredos\image.jpg",
+      "price": 10
+    },
+    {
+      "name": "hotel_ibisa",
+      "title": "Hotel Ibisa",
+      "imageDirectory": "C:\Users\Felipe\Documents\Bluehack\Assets\_Project\Jsons\Locations\new_york\Hotels\hotel_ibisa\image.jpg",
+      "price": 10
+    }
+  ]
+}
